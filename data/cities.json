@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Fuenlabrada de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T14:59:42.441Z",
+      "notes": "dfg",
+      "position": {
+        "lat": "39.18117526158749",
+        "lng": "-4.877929687500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-06T14:59:58.610Z",
+      "notes": "c",
+      "position": {
+        "lat": "39.436192999314095",
+        "lng": "2.5488281250000004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Hayma’",
+      "country": "Oman",
+      "emoji": "🇴🇲",
+      "date": "2023-09-06T15:00:11.692Z",
+      "notes": "cbv",
+      "position": {
+        "lat": "20.59165212082918",
+        "lng": "56.42578125000001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "‘Uqlat as Suqur",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2023-09-06T15:00:40.913Z",
+      "notes": "cvb",
+      "position": {
+        "lat": "25.3241665257384",
+        "lng": "42.09960937500001"
+      },
+      "id": 98443203
+    }
+  ]
+}
